@@ -10,12 +10,7 @@ import javax.imageio.ImageIO;
 
 import collegeapplication.common.ImageUtil;
 
-/*
- * Title : Admin.java
- * Created by : Ajaysinh Rathod
- * Purpose : To bind all data of admin
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 
 public class Admin
 {
