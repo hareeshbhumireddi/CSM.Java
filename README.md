@@ -63,7 +63,7 @@ My name is [Bhumireddi Harish]((https://github.com/hareeshbhumireddi)). I'm stud
 
 
 
-Email : hareeshbhumireddi@gmail.com
+Email : hareeshbhumireddi@gmail.com <br>
 Phone no: 9390954971
 
 # Social Media Accounts
