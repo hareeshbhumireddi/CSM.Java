@@ -11,12 +11,7 @@ import javax.swing.JOptionPane;
 import collegeapplication.common.DataBaseConnection;
 import collegeapplication.common.TimeUtil;
 
-/*
- * Title : AdminData.java
- * Created by : Ajaysinh Rathod
- * Purpose : Handling all the data related to admin
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 public class AdminData {
 	
 	Connection con=DataBaseConnection.getConnection();
