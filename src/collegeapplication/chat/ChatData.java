@@ -16,9 +16,9 @@ import collegeapplication.student.Student;
 
 /*
  * Title : ChatData.java
- * Created by : Ajaysinh Rathod
+ * Created by : Bhumireddi Harish
  * Purpose : Manages all the data related to chat 
- * Mail : ajaysinhrathod1290@gmail.com
+ * Mail : hareeshbhumireddi@gmail.com
  */
 public class ChatData {
 	
