@@ -68,7 +68,6 @@ Phone no: 9390954971
 
 # Social Media Accounts
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/mr_introvert__boi/profilecard/?igsh=Y29wN2psejV1NHlo)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harish-bhumireddi)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
-[![linkedin](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.linkedin.com/in/harish-bhumireddi)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[![Twitter](https://img.icons8.com/fluent/40/000000/twitter.png)](https://twitter.com/Ajaysin34751867)
 
