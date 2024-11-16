@@ -55,39 +55,20 @@ Thanks !
 * Faculty userid  : Faculty id
 * Student Userid  : cource-sem-rollnumber (IT-1-1001)        
 
-## Demo
 
-https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-9737-dbe43cbdfffd.mp4
-
-
-## Screenshots
-
-<img src="screenshots/loginscreen.png"/>
-<img src="screenshots/homepage.png"/>
-<img src="screenshots/courceslist.png"/>
-<img src="screenshots/subjects.png"/>
-<img src="screenshots/students.png"/>
-<img src="screenshots/studentdetails.png"/>
-<img src="screenshots/marksheet.png"/>
-<img src="screenshots/faculties.png"/>
-<img src="screenshots/markattandance.png"/>
-<img src="screenshots/attandancereport.png"/>
-<img src="screenshots/declareresult.png"/>
-<img src="screenshots/groupchatting.png"/>
-<img src="screenshots/personalchatting.png"/>
-<img src="screenshots/collagedetails.png"/>
 
 ## About
 
-My name is [Ajaysinh Rathod](https://github.com/Ajaysinh1290). I'm studying Information Technology (2nd Year) in SOCET(Ahmedabad). Contact me for any improvement in this project.
+My name is [Bhumireddi Harish]((https://github.com/hareeshbhumireddi)). I'm studying Computer Science Engerreing  (4nd Year) in NSRIT(Visakhapatnam). Contact me for any improvement in this project.
 
 
 
-Email : ajaysinhrathod1290@gmail.com
+Email : hareeshbhumireddi@gmail.com
+Phone no: 9390954971
 
 # Social Media Accounts
-[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Facebook](https://img.icons8.com/fluent/40/000000/facebook-new.png)](https://www.facebook.com/ajaysinh.rathod.7927)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[![Youtube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/mr_introvert__boi/profilecard/?igsh=Y29wN2psejV1NHlo)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+[![linkedin](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.linkedin.com/in/harish-bhumireddi)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [![Twitter](https://img.icons8.com/fluent/40/000000/twitter.png)](https://twitter.com/Ajaysin34751867)
 
