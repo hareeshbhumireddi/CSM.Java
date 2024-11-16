@@ -28,12 +28,7 @@ import javax.swing.UIManager;
 import javax.swing.border.EmptyBorder;
 import javax.swing.border.LineBorder;
 
-/*
- * Title : EditAdminDetailsDialog.java
- * Created by : Ajaysinh Rathod
- * Purpose : With the help of this file admin can edit collage details
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 
 @SuppressWarnings("serial")
 public class EditAdminDetailsDialog extends JDialog implements ActionListener {
